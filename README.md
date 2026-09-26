@@ -31,12 +31,12 @@ The analysis focuses on:
 
 The main document is an easy-to-read analysis created to explain the incident from a cybersecurity perspective.
 
-➡️ [View Case Study](CareCloud_Cybersecurity_Analysis_2026_FINAL (1).pdf)
+➡️ [View Case Study](./CareCloud_Cybersecurity_Analysis_2026_FINAL%20(1).pdf)
 ### 📄 Official CareCloud Notification
 
 The original notification released by CareCloud is included separately as the primary source document.
 
-➡️ [View Official Notification](./EXACT_OFFICIAL_FILENAME.pdf)
+➡️ [View Official Notification](./CareCloudInc._188537634_CareCloud__SSN_39739837v1.pdf)
 
 ---
 
