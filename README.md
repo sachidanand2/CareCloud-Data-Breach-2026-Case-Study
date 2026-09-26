@@ -37,7 +37,7 @@ The main document is an easy-to-read analysis created to explain the incident fr
 
 The original notification released by CareCloud is included separately as the primary source document.
 
-➡️ [View Official Notification](official-source/CareCloud_Official_Data_Breach_Notification_2026.pdf)
+➡️ [View Official Notification](./EXACT_OFFICIAL_FILENAME.pdf)
 
 ---
 
@@ -110,7 +110,7 @@ The analysis is based primarily on CareCloud's official breach notification and 
 
 See:
 
-➡️ [Sources](sources/SOURCES.md)
+➡️ [Sources](./source.md)
 
 ---
 
