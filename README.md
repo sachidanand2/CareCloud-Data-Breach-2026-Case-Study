@@ -31,8 +31,7 @@ The analysis focuses on:
 
 The main document is an easy-to-read analysis created to explain the incident from a cybersecurity perspective.
 
-➡️ [View Case Study](case-study/CareCloud_Data_Breach_2026_Case_Study.pdf)
-
+➡️ [View Case Study](CareCloud_Cybersecurity_Analysis_2026_FINAL (1).pdf)
 ### 📄 Official CareCloud Notification
 
 The original notification released by CareCloud is included separately as the primary source document.
